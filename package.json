@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "postcss-normalize": "^10.0.1",
+    "sass": "^1.53.0"
+  }
+}
